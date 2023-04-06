@@ -1,5 +1,5 @@
 # Job-Rotation
-<p> Testes feito para Target Sistema </p>
+<p> Testes feito para Target Sistemas</p>
 
 <p>Escolhi JavaScript pois é a linguagem que eu mais tenho conhecimento, porém atualmente programo em TypeScript</p>
 <h3>Obs: </h3>
